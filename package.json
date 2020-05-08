@@ -1,0 +1,11 @@
+{
+  "name": "mutual-tls-nodejs",
+  "version": "1.0.0",
+  "description": "An example of setting mutual TLS",
+  "main": "index.js",
+  "author": "Sergii Bondarenko",
+  "license": "MIT",
+  "dependencies": {
+    "@hapi/hapi": "^19.1.1"
+  }
+}
